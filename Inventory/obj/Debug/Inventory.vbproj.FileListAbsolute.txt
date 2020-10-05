@@ -1,0 +1,16 @@
+D:\new\Final\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\new\Final\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\new\Final\Inventory\Inventory\bin\Debug\Inventory.xml
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.vbprojAssemblyReference.cache
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Login.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Resources.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.vbproj.GenerateResource.cache
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.vbproj.CoreCompileInputs.cache
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.exe
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.xml
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.pdb
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Main.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Inventory.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Assign.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.REPORTS.resources
+D:\new\Final\Inventory\Inventory\obj\Debug\Inventory.Employees.resources
